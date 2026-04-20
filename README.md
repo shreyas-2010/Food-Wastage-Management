@@ -1,1 +1,1 @@
-# project5
+# project6 - food waste management system
